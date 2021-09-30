@@ -4,6 +4,7 @@ HW#5- Matplotlib- The Power of Plots
 The report generates tables and figures needed for the technical report of potential treatments for squamous cell carcinoma.
 
 Observations and Insights
+
 Based on the analysis here are a few bullet points of observations:
 
 For all four treatments: Capomulin, Ramicane, Infubinol, and Ceftamin, the statistic means are close to medians and the SEMs are low, indicating the results are accurate and data sets are symmetrically distributed.
