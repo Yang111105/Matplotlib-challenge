@@ -1,5 +1,4 @@
-# Matplotlib-challenge
-Matplotlib- The Power of Plots
+# Matplotlib- The Power of Plots
 
 The report generates tables and figures needed for the technical report of potential treatments for squamous cell carcinoma.
 
